@@ -32,7 +32,7 @@ function Footer() {
 
         <div className="border-t border-gray-200 py-5 dark:border-white/10">
           <p className="text-center text-sm text-gray-500 dark:text-gray-400">
-            © {new Date().getFullYear()} Levi Ledesma. All rights reserved.
+            © {new Date().getFullYear()} Levi John Ledesma. All rights reserved.
           </p>
         </div>
       </Container>
