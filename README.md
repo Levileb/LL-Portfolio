@@ -1,16 +1,26 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hi, I'm Levi John Ledesma👋
 
-Currently, two official plugins are available:
+### Developer • Designer • Problem Solver
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Building thoughtful digital experiences and reliable software.
 
-## React Compiler
+[![Email](https://img.shields.io/badge/Email-Contact%20me-blue?style=flat-square)](mailto:levi.19johnledesma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/levi-john-ledesma-252a29259/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Levileb)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the ESLint configuration
+## About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I'm a curious developer who enjoys exploring new technologies
+while continuously improving the skills I already use. I
+particularly enjoy building applications that solve everyday
+business problems, automating repetitive tasks, and turning
+manual processes into practical software solutions.
+
+
+## Contact
+
+Interested in working together? Reach out at [your.email@example.com](mailto:levi.19johnledesma@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/levi-john-ledesma-252a29259/).
