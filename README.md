@@ -23,4 +23,4 @@ manual processes into practical software solutions.
 
 ## Contact
 
-Interested in working together? Reach out at [your.email@example.com](mailto:levi.19johnledesma@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/levi-john-ledesma-252a29259/).
+Interested in working together? Reach out at [levi.19johnledesma@gmail.com](mailto:levi.19johnledesma@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/levi-john-ledesma-252a29259/).
