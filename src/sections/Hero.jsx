@@ -21,7 +21,7 @@ function Hero() {
             </span>
           </h1>
 
-          <p className="mt-6 max-w-2xl text-base leading-8 text-gray-600 sm:text-lg dark:text-gray-400">1 
+          <p className="mt-6 max-w-2xl text-base leading-8 text-gray-600 sm:text-lg dark:text-gray-400">
             I develop high-impact web and mobile applications built on clean, 
             reliable, and maintainable software design principles.
           </p>
